@@ -1,0 +1,19 @@
+C:\Users\Yüksel Ant\Desktop\FareTesti\bin\Debug\FareTesti.exe.config
+C:\Users\Yüksel Ant\Desktop\FareTesti\bin\Debug\FareTesti.exe
+C:\Users\Yüksel Ant\Desktop\FareTesti\bin\Debug\FareTesti.pdb
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.csprojAssemblyReference.cache
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.Form1.resources
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.Properties.Resources.resources
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.csproj.GenerateResource.cache
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.csproj.CoreCompileInputs.cache
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.exe
+C:\Users\Yüksel Ant\Desktop\FareTesti\obj\Debug\FareTesti.pdb
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\bin\Debug\FareTesti.exe.config
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\bin\Debug\FareTesti.exe
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\bin\Debug\FareTesti.pdb
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.csprojAssemblyReference.cache
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.Form1.resources
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.Properties.Resources.resources
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.csproj.GenerateResource.cache
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.exe
+D:\YEDEKLENECEK\0UYGULAMALARIM0\FareTesti\obj\Debug\FareTesti.pdb
